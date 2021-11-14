@@ -1,1 +1,1 @@
-# devseanhuh.github.io
+# Tech Blog
