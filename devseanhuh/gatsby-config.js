@@ -13,8 +13,9 @@ module.exports = {
         path: `${__dirname}/contents`,
       },
     },
+    `gatsby-plugin-emotion`,
     {
-      resolve: "gatsby-plugin-typescript",
+      resolve: 'gatsby-plugin-typescript',
       options: {
         isTSX: true,
         allExtensions: true,
